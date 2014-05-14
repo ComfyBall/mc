@@ -159,48 +159,48 @@
                     <hr>
                 </div>
             </div>
-            <div class="row">
+<div class="row">
                 <div class="col-xs-6 col-sm-6 col-md-2 text-center">
                     <div class="service-item">
                         <img src="img/team/mahekshah.jpg" width="100px" alt="Mahek Shah, MD." class="img-thumbnail">
-                        <h4 class="team">Mahek Shah, MD</h4>
+                        <h4>Mahek Shah, MD</h4>
                         <p><strong>Co-founder, Chief Executive Officer</strong><br>  Entrepreneur-in-Residence, Harvard Innovation Lab</p>
                     </div>
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-2 text-center">
                     <div class="service-item">
                         <img src="img/team/cfields.jpg" width="100px" alt="Chris Fields" class="img-thumbnail">
-                        <h4 class="team">Chris Fields</h4>
+                        <h4>Chris Fields</h4>
                         <p><strong>Chief Technology Officer</strong><br>BS. Mech. Engineering<br> MS. Comp. Science '16.</p>
+  
                     </div>
                 </div>
-                <div class="col-xs-6 col-sm-6 col-md-2 text-center">
-                    <div class="service-item">
-                        <img src="img/team/emtoshack.jpeg" width="100px" alt="Emma Toshack" class="img-thumbnail">
-                        <h4 class="team">Emma Toshack</h4>
-                        <p><strong>Business Development</strong><br>HBS '14<br> BCG Consultant, Bridgewater Analyst</p>
-                    </div>
-                </div>
-
                 <div class="col-xs-6 col-sm-6 col-md-2 text-center">
                     <div class="service-item">
                         <img src="img/team/sDempsey.jpg" width="100px" alt="Samantha Dempsey" class="img-thumbnail">
-                        <h4 class="team">Samantha Dempsey</h4>
+                        <h4>Samantha Dempsey</h4>
                         <p><strong>Co-founder</strong><br> Graphic Designer<br>Industrial Designer at Mad*Pow, Rhode Island School of Design alumna. </p>
                     </div>
                 </div>
-
+                <div class="col-xs-6 col-sm-6 col-md-2 text-center">
+                    <div class="service-item">
+                        <img src="img/team/dTzivelis.jpg" width="100px" alt="Andrew Dubowec" class="img-thumbnail">
+                        <h4>Dimitrios Tzivelis</h4>
+                        <p><strong>Strategy and Business Development</strong><br>Harvard Business School, MBA '14<br> Associate at BC Partners, a premier private equity firm. formerly at Credit Suisse and Lehman Brothers.
+</p>
+                    </div>
+                </div>
                 <div class="col-xs-6 col-sm-6 col-md-2 text-center">
                     <div class="service-item">
                         <img src="img/team/IGH Headshot - Community.jpg" width="100px" alt="Andrew Dubowec" class="img-thumbnail">
-                        <h4 class="team">Israel Green-Hopkins, MD</h4>
+                        <h4>Israel Green-Hopkins, MD</h4>
                         <p><strong>Co-founder</strong><br>Pediatric Emergency Room Physician, Boston Children's Hospital</p>
                     </div>
                 </div>
                <div class="col-xs-6 col-sm-6 col-md-2 text-center">
                     <div class="service-item">
-                        <img src="img/team/jscannell.jpg" width="100px" alt="John Scannell, RN" class="img-thumbnail">
-                        <h4 class="team">John Scannell, RN</h4>
+                        <img src="img/team/johnscannell.jpg" width="100px" alt="John Scannell, RN" class="img-thumbnail">
+                        <h4>John Scannell, RN</h4>
                         <p><strong>Co-founder</strong><br>Pediatric Nurse of 15 yrs, Boston Children's Hospital </p>
                     </div>
                 </div>
@@ -291,7 +291,7 @@
                 <div class="col-xs-12 col-sm-4 col-md-4 text-center">
                     <a href="http://www.bostonchildrens.org/" class="thumbnail" target="_blank">
                         <img width="228" height="128" alt="Boston Children's Hospital" src="img/bch.jpg">
-                    </a>
+                    </a>                    
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4 text-center">
                     <a href="http://www.hackingpediatrics.com/" class="thumbnail" target="_blank">
@@ -303,8 +303,8 @@
                         <img width="128" height="128" alt="Harvard Innovation Lab" src="img/Hi.png">
                     </a>
                 </div>
-            </div>
-            <div class="row">
+            </div>   
+            <div class="row">        
                 <div class="col-xs-6 col-xs-offset-3 text-center">
                     <h2>Press</h2>
                     <hr>
@@ -366,7 +366,7 @@
                             </a>
                             <a href="http://twitter.com/thecomfyball" class="social-media-bottom" target="_blank">
                                 <i class="fa fa-twitter fa-2x"></i>
-                            </a>
+                            </a> 
                         <!-- /Social Media --><br>
                         <strong>Email us or find Comfyball on Twitter</strong>
                         </address>
